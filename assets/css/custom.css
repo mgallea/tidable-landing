@@ -1,0 +1,32 @@
+.brand-name-2 {
+	font-size: 30px;
+	line-height: 2;
+	font-weight: 300;
+}
+
+@media (max-width: 768px){
+
+header .brand-name{
+	font-size: 32px;
+	line-height: 1;
+	text-align: center;
+	padding: 0 10px 0 10px;
+}
+
+.brand-name-2{
+	font-size: 25px;
+}
+
+/*@media (min-width: 401px; max-width: 768px){
+
+header .brand-name{
+	font-size: 200%;
+	line-height: 1;
+	text-align: center;
+}
+
+.brand-name-2{
+	font-size: 25px;
+}
+
+}*/
